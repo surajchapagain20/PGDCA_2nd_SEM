@@ -26,3 +26,11 @@ void main() {
     printf("\nResultant Time: %02d:%02d:%02d\n", result.hours, result.minutes, result.seconds);
 
 }
+
+//OUTPUT
+//Input the first time (hours minutes seconds): 2 50 40
+//Input the second time (hours minutes seconds): 3 50 40
+//Resultant Time: 06:41:20
+//--------------------------------
+//Process exited after 11.7 seconds with return value 26
+//Press any key to continue . . .
